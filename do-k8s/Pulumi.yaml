@@ -1,0 +1,3 @@
+name: demo-site
+runtime: go
+description: Prometheus Kubernetes Demo Site
